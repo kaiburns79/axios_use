@@ -70,10 +70,9 @@ export const ListContainer = styled.div`
   border: 0;
   border-radius: 8px;
   background: #333;
-
   padding: 1rem 2rem;
   width: 30%;
-
+  
   h2 {
     margin-top: 2rem;
     font-size: 1.5rem;
